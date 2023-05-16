@@ -16,9 +16,6 @@ def check():
         resultop.config(text="false")
 
 
-
-
-
 Q1 = Label(page,text="What does HTML stand for?" , justify="left")
 Q1.pack()
 
